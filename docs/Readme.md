@@ -4,3 +4,4 @@
 * subtraction
 * Multiplication
 * Divison
+* Power
